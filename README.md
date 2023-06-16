@@ -2,7 +2,7 @@
 Hello! My name is Ritesh Naik 👋
 </h1>
 
-I am a Front-end developer.   I am a Graduate in Bachelors of Engineering in Information Technology(2023). <br>I like developing creative websites and desktop aplications.
+I am a Front-end developer and a graduate in Bachelors of Engineering in Information Technology(2023). <br>I like developing creative websites and desktop aplications.
 
 ## 🔭 I'm currently working on
 
