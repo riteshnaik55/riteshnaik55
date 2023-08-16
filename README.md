@@ -6,13 +6,12 @@ I am a Front-end developer and a graduate in Bachelors of Engineering in Informa
 
 ## 🔭 I'm currently working on
 
-- My portfolio site
-- Weather App (React-Native)
+- Weather App (ReactJS)
 - Movie Recommendation Site (IMDb API)
 
 ## 🌱 I'm currently learning
 
-- React Native
+- React JS
 - Dynamic Programming
 
 ## 💼 Technical Skills
@@ -25,3 +24,5 @@ I am a Front-end developer and a graduate in Bachelors of Engineering in Informa
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
